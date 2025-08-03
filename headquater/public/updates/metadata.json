@@ -1,0 +1,12 @@
+{
+  "name": "Advance Checkout Tracker",
+  "version": "1.0.1",
+  "download_url": "https://act.electrohere.com/updates/advanced-checkout-tracker-1.0.1.zip",
+  "requires": "6.0",
+  "tested": "6.8.1",
+  "last_updated": "2025-06-27 21:04:00",
+  "sections": {
+    "description": "The official licensing software plugin for my products.",
+    "changelog": "<h4>Version 1.0.1</h4><ul><li>New: Added a special new licensing feature.</li><li>Fix: Improved overall performance.</li></ul>"
+  }
+}

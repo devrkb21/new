@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to the end of resources/css/app.css */
+
+/*
+ * Custom Toggle Switch
+ * ------------------------------------------------------------------ */
+.toggle-checkbox:checked {
+  @apply: right-0 border-primary-600;
+  right: 0;
+  border-color: #4f46e5;
+}
+
+.toggle-checkbox:checked+.toggle-label {
+  @apply: bg-primary-600;
+  background-color: #4f46e5;
+}
+
+/* Add this to the end of resources/css/app.css */
+.toggle-switch-track {
+  @apply w-14 h-7 bg-gray-200 rounded-full flex items-center p-1 cursor-pointer transition-colors duration-300 ease-in-out;
+}
+
+.toggle-switch-thumb {
+  @apply w-5 h-5 bg-white rounded-full shadow-md transform transition-transform duration-300 ease-in-out;
+}
+
+/* Custom styles for the language toggle */
+.lang-toggle-en .toggle-switch-thumb {
+  transform: translateX(0%);
+}
+
+.lang-toggle-bn .toggle-switch-thumb {
+  transform: translateX(120%);
+  /* Adjust as needed for visual spacing */
+}
+
+.lang-toggle-bn .toggle-switch-track {
+  @apply bg-primary-600;
+}

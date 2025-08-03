@@ -1,0 +1,21 @@
+{
+    "kalpurush": {
+        "normal": "kalpurush_normal_3484c434f7e29fd2acf74131013e199b"
+    },
+    "noto sans bengali": {
+        "normal": "\/home\/act.electrohere.com\/public_html\/storage\/fonts\/\/noto_sans_bengali_normal_db5d1d7e0ae2fa9a8904be2011c02621",
+        "bold": "noto_sans_bengali_bold_a6c7c84cf2cbd32b88bf3f5a54ebc6db"
+    },
+    "notosansbengali": {
+        "normal": "notosansbengali_normal_db5d1d7e0ae2fa9a8904be2011c02621"
+    },
+    "notosansbengali-bold": {
+        "normal": "notosansbengali_bold_normal_a6c7c84cf2cbd32b88bf3f5a54ebc6db"
+    },
+    "hind siliguri": {
+        "normal": "hind_siliguri_normal_edfa28652992756619ffbef5ae5aff24"
+    },
+    "hind siliguri bold": {
+        "normal": "hind_siliguri_bold_normal_9a02599f2fa51c9409d7798c293cd134"
+    }
+}
